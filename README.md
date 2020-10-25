@@ -1,3 +1,3 @@
-# Heart-Disease-Prediction-Model
+# Heart Disease Prediction 
 
 ![](Heart-image.jpg)
