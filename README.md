@@ -24,4 +24,4 @@ Symptoms can include:
 
 You might not be diagnosed with cardiovascular disease until you have a heart attack, angina, stroke or heart failure. It's important to watch for cardiovascular symptoms and discuss concerns with your doctor. Cardiovascular disease can sometimes be found early with regular evaluations.
 
-**You can learn and explore more through this ![Referencehttps://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-203531180]**
+**You can learn and explore more through this Reference : https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-203531180**
