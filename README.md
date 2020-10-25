@@ -23,3 +23,5 @@ Symptoms can include:
 * Pain in the neck, jaw, throat, upper abdomen or back
 
 You might not be diagnosed with cardiovascular disease until you have a heart attack, angina, stroke or heart failure. It's important to watch for cardiovascular symptoms and discuss concerns with your doctor. Cardiovascular disease can sometimes be found early with regular evaluations.
+
+**You should leran and explore more through this ![Reference](https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-203531180)**
