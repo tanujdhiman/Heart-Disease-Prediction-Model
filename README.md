@@ -28,3 +28,4 @@ You might not be diagnosed with cardiovascular disease until you have a heart at
 
 #### Model :
 
+This model tells a person have heart disease or not by giving all information of heart.
